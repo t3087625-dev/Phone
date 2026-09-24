@@ -115,7 +115,7 @@ async def safe_edit(message, text, **kwargs):
   
 API_ID = 38152842
 API_HASH = 'e871acd47f11180274ca80e8b8affdbc'
-BOT_TOKEN = '8892962008:AAHtI9n_8N3LdT7yhblxY96atYTlrqEdUKc'
+BOT_TOKEN = '8254669127:AAG6qDKeuljNnYSG01UddhHS1bLdTfFGhdk'
 ADMIN_ID = [5916610832]
 CHECKER_NODES = [
     'https://jinxshopixx.up.railway.app/shopify',
